@@ -1,0 +1,781 @@
+.sign-up {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .sign-up .overlap-wrapper {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1920px;
+    height: 1080px;
+  }
+  
+  .sign-up .overlap {
+    position: relative;
+    width: 1989px;
+    height: 1225px;
+    top: -60px;
+    left: -69px;
+  }
+  
+  .sign-up .rectangle {
+    position: absolute;
+    width: 811px;
+    height: 1080px;
+    top: 60px;
+    left: 1178px;
+    background-color: #ffffff;
+  }
+  
+  .sign-up .frame {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: absolute;
+    top: 1040px;
+    left: 1431px;
+  }
+  
+  .sign-up .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Nunito Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-3);
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .div {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Nunito Sans-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #7f265b;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .illustration {
+    position: absolute;
+    width: 1243px;
+    height: 1225px;
+    top: 0;
+    left: 0;
+  }
+  
+  .sign-up .overlap-group {
+    position: absolute;
+    width: 1239px;
+    height: 1140px;
+    top: 0;
+    left: 0;
+  }
+  
+  .sign-up .rectangle-2 {
+    position: absolute;
+    width: 1109px;
+    height: 1080px;
+    top: 60px;
+    left: 69px;
+    background-color: #ffe5c8;
+  }
+  
+  .sign-up .img {
+    position: absolute;
+    width: 594px;
+    height: 597px;
+    top: 239px;
+    left: 332px;
+  }
+  
+  .sign-up .vector {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    top: 248px;
+    left: 733px;
+  }
+  
+  .sign-up .vector-2 {
+    position: absolute;
+    width: 37px;
+    height: 37px;
+    top: 643px;
+    left: 892px;
+  }
+  
+  .sign-up .vector-3 {
+    position: absolute;
+    width: 167px;
+    height: 82px;
+    top: 1058px;
+    left: 1072px;
+  }
+  
+  .sign-up .vector-4 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 903px;
+    left: 204px;
+  }
+  
+  .sign-up .group {
+    position: absolute;
+    width: 544px;
+    height: 512px;
+    top: 115px;
+    left: 415px;
+  }
+  
+  .sign-up .group-2 {
+    position: absolute;
+    width: 499px;
+    height: 565px;
+    top: 379px;
+    left: 374px;
+  }
+  
+  .sign-up .overlap-group-wrapper {
+    position: absolute;
+    width: 297px;
+    height: 293px;
+    top: 0;
+    left: 0;
+  }
+  
+  .sign-up .overlap-group-2 {
+    position: relative;
+    width: 228px;
+    height: 233px;
+    top: 60px;
+    left: 69px;
+    background-image: url(./img/image.png);
+    background-size: 100% 100%;
+  }
+  
+  .sign-up .vector-5 {
+    position: absolute;
+    width: 218px;
+    height: 168px;
+    top: 30px;
+    left: 0;
+  }
+  
+  .sign-up .vector-6 {
+    position: absolute;
+    width: 229px;
+    height: 167px;
+    top: 6px;
+    left: 0;
+  }
+  
+  .sign-up .p {
+    position: absolute;
+    top: 973px;
+    left: 364px;
+    font-family: "Nunito Sans-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #72104b;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .text-wrapper-2 {
+    position: absolute;
+    top: 1028px;
+    left: 292px;
+    font-family: "Nunito Sans-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #72104b;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .vector-7 {
+    position: absolute;
+    width: 48px;
+    height: 34px;
+    top: 634px;
+    left: 238px;
+  }
+  
+  .sign-up .vector-8 {
+    position: absolute;
+    width: 2px;
+    height: 2px;
+    top: 694px;
+    left: 1068px;
+  }
+  
+  .sign-up .vector-9 {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    top: 539px;
+    left: 223px;
+  }
+  
+  .sign-up .vector-10 {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    top: 700px;
+    left: 1061px;
+  }
+  
+  .sign-up .vector-11 {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    top: 680px;
+    left: 1015px;
+  }
+  
+  .sign-up .vector-12 {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    top: 583px;
+    left: 238px;
+  }
+  
+  .sign-up .group-3 {
+    position: absolute;
+    width: 48px;
+    height: 34px;
+    top: 195px;
+    left: 449px;
+  }
+  
+  .sign-up .vector-13 {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    top: 283px;
+    left: 1038px;
+  }
+  
+  .sign-up .vector-14 {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    top: 886px;
+    left: 191px;
+  }
+  
+  .sign-up .vector-15 {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    top: 403px;
+    left: 132px;
+  }
+  
+  .sign-up .vector-16 {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    top: 1103px;
+    left: 958px;
+  }
+  
+  .sign-up .vector-17 {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    top: 307px;
+    left: 979px;
+  }
+  
+  .sign-up .vector-18 {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    top: 910px;
+    left: 132px;
+  }
+  
+  .sign-up .vector-19 {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    top: 442px;
+    left: 1034px;
+  }
+  
+  .sign-up .vector-20 {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    top: 1045px;
+    left: 187px;
+  }
+  
+  .sign-up .vector-21 {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    top: 122px;
+    left: 391px;
+  }
+  
+  .sign-up .vector-22 {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    top: 966px;
+    left: 1060px;
+  }
+  
+  .sign-up .vector-23 {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    top: 158px;
+    left: 609px;
+  }
+  
+  .sign-up .vector-24 {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    top: 165px;
+    left: 710px;
+  }
+  
+  .sign-up .vector-25 {
+    position: absolute;
+    width: 2px;
+    height: 2px;
+    top: 686px;
+    left: 368px;
+  }
+  
+  .sign-up .vector-26 {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    top: 725px;
+    left: 349px;
+  }
+  
+  .sign-up .vector-27 {
+    position: absolute;
+    width: 2px;
+    height: 2px;
+    top: 144px;
+    left: 966px;
+  }
+  
+  .sign-up .vector-28 {
+    position: absolute;
+    width: 2px;
+    height: 2px;
+    top: 129px;
+    left: 1037px;
+  }
+  
+  .sign-up .vector-29 {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    top: 202px;
+    left: 1106px;
+  }
+  
+  .sign-up .vector-30 {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    top: 157px;
+    left: 881px;
+  }
+  
+  .sign-up .group-4 {
+    position: absolute;
+    width: 196px;
+    height: 107px;
+    top: 480px;
+    left: 791px;
+  }
+  
+  .sign-up .group-5 {
+    position: absolute;
+    width: 181px;
+    height: 99px;
+    top: 460px;
+    left: 309px;
+  }
+  
+  .sign-up .vector-31 {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    top: 596px;
+    left: 2370px;
+  }
+  
+  .sign-up .group-6 {
+    position: absolute;
+    width: 72px;
+    height: 72px;
+    top: 239px;
+    left: 1379px;
+  }
+  
+  .sign-up .oval-copy {
+    top: 9px;
+    position: absolute;
+    width: 11px;
+    height: 11px;
+    left: 51px;
+  }
+  
+  .sign-up .overlap-2 {
+    position: absolute;
+    width: 29px;
+    height: 30px;
+    top: 0;
+    left: 11px;
+  }
+  
+  .sign-up .oval-copy-2 {
+    position: absolute;
+    width: 11px;
+    height: 11px;
+    top: 9px;
+    left: 0;
+  }
+  
+  .sign-up .rectangle-3 {
+    position: absolute;
+    width: 30px;
+    height: 7px;
+    top: 11px;
+    left: 10px;
+    background-color: #555555;
+    border-radius: 24px;
+    transform: rotate(90deg);
+  }
+  
+  .sign-up .overlap-3 {
+    position: absolute;
+    width: 29px;
+    height: 30px;
+    top: 42px;
+    left: 11px;
+  }
+  
+  .sign-up .oval-copy-3 {
+    top: 52px;
+    position: absolute;
+    width: 11px;
+    height: 11px;
+    left: 51px;
+  }
+  
+  .sign-up .rectangle-4 {
+    position: absolute;
+    width: 72px;
+    height: 7px;
+    top: 32px;
+    left: 0;
+    background-color: #555555;
+    border-radius: 24px;
+  }
+  
+  .sign-up .frame-2 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 36px;
+    position: absolute;
+    top: 347px;
+    left: 1379px;
+  }
+  
+  .sign-up .frame-3 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .sign-up .frame-4 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 3px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .sign-up .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Nunito Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #515151;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .text-wrapper-4 {
+    position: relative;
+    width: fit-content;
+    font-family: "Nunito Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #515151;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .frame-5 {
+    display: flex;
+    width: 420px;
+    align-items: center;
+    justify-content: center;
+    gap: 13px;
+    padding: 10px;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: #e7e7e7;
+  }
+  
+  .sign-up .image {
+    position: relative;
+    width: 25px;
+    height: 25px;
+    object-fit: cover;
+  }
+  
+  .sign-up .text-wrapper-5 {
+    position: relative;
+    width: fit-content;
+    font-family: "Nunito Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--gray-3);
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .or-sign-in-with {
+    position: relative;
+    width: fit-content;
+    font-family: "Nunito Sans-SemiBold", Helvetica;
+    font-weight: 600;
+    color: transparent;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .span {
+    color: #dddddd;
+  }
+  
+  .sign-up .text-wrapper-6 {
+    color: #a1a1a1;
+  }
+  
+  .sign-up .frame-6 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .sign-up .frame-7 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .sign-up .text-wrapper-7 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Nunito Sans-SemiBold", Helvetica;
+    font-weight: 600;
+    color: var(--gray-3);
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .div-wrapper {
+    display: flex;
+    width: 420px;
+    align-items: center;
+    gap: 13px;
+    padding: 13px 10px;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: #ded2d9;
+  }
+  
+  .sign-up .text-wrapper-8 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Nunito Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-5);
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .frame-8 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .sign-up .frame-9 {
+    display: flex;
+    width: 420px;
+    align-items: center;
+    gap: 13px;
+    padding: 18px 10px 13px;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: #ded2d9;
+  }
+  
+  .sign-up .text-wrapper-9 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Nunito Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-5);
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .frame-10 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 222px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .sign-up .checkbox {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .sign-up .check {
+    position: relative;
+    width: 12px;
+    height: 12px;
+    background-color: #7f265b;
+    border-radius: 2px;
+  }
+  
+  .sign-up .check-solid {
+    position: relative;
+    width: 10px;
+    height: 10px;
+    top: 1px;
+    left: 1px;
+  }
+  
+  .sign-up .icons-navigation {
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    top: 1px;
+    left: 1px;
+  }
+  
+  .sign-up .text-wrapper-10 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Nunito Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #a1a1a1;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .text-wrapper-11 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Nunito Sans-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #7f265b;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .frame-11 {
+    display: flex;
+    width: 420px;
+    align-items: center;
+    justify-content: center;
+    gap: 13px;
+    padding: 13px 10px 12px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #7f265b;
+    border-radius: 6px;
+  }
+  
+  .sign-up .text-wrapper-12 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Nunito Sans-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
